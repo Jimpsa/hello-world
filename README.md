@@ -1,2 +1,2 @@
 # hello-world
-My own projects
+Creating a 10 paged website for my school project from scratch
